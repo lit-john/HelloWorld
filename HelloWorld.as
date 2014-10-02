@@ -13,6 +13,11 @@
 			// constructor code
 			trace("This is the constructor of HelloWorld");
 		}
+		
+		public function foo()
+		{
+			// This is foo
+		}
 	}
 
 }
